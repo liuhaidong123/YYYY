@@ -4,6 +4,7 @@
     android:layout_height="match_parent">
 
     <TextView
+        android:textSize="12sp"
         android:text="1111"
         android:id="@+id/uu"
         android:layout_width="wrap_content"
